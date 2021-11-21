@@ -18,7 +18,7 @@ from setuptools import setup
 
 setup(
     name='cloudify-types',
-    version='5.2.3.1',
+    version='5.2.3b',
     author='Cloudify',
     author_email='cosmo-admin@cloudify.co',
     packages=[
